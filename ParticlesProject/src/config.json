@@ -11,7 +11,7 @@
 	"ParticleImage": "assets/particle.png",
 	"Debug": true,
 
-	"InitNumParticles": 100,
+	"InitNumParticles": 100000,
 	"InitSizeParticles": 0.5,
 	"Grossissement": 1,
 	"InitVitesseParticles": 2,
